@@ -1,15 +1,18 @@
 ## Selection of current software projects by Judd Niemann
 
 <table border="1" cellspacing="0">
+<thead>
   <tr>
-    <td style="min-width:50px">Project</td>
-    <td style="min-width:50px">Description</td>
-    <td style="min-width:50px">Target Platform(s)</td>
-    <td style="min-width:50px">Languages / Technologies used</td>
-    <td style="min-width:50px">Live Demo</td>
-    <td style="min-width:50px">Download (note: 32-bit versions also available)</td>
-    <td style="min-width:50px">GitHub Repository / Source Code / Documentation</td>
+    <th style="min-width:50px">Project</th>
+    <th style="min-width:50px">Description</th>
+    <th style="min-width:50px">Target Platform(s)</th>
+    <th style="min-width:50px">Languages / Technologies used</th>
+    <th style="min-width:50px">Live Demo</th>
+    <th style="min-width:50px">Download (note: 32-bit versions also available)</th>
+    <th style="min-width:50px">GitHub Repository / Source Code / Documentation</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td style="min-width:50px">Ferocious</td>
     <td style="min-width:50px">High Quality Audio Sample Rate and Format converter</td>
@@ -123,4 +126,5 @@
     <td style="min-width:50px"></td>
     <td style="min-width:50px">https://github.com/jniemann66/bugblatter</td>
   </tr>
+  </tbody>
 </table>
